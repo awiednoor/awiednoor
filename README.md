@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m a **Frontend Developer**
 
-- 🌱 I’m currently advancing in **React.js**
+- 🌱 I’m currently advancing in **MERN Stack**
 
 - 📫 Reach me on [www.noorawied.com](www.noorawied.com)
 
