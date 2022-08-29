@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently advancing in **MERN Stack**
 
-- 📫 Reach me on [www.noorawied.com](www.noorawied.com)
+- 📫 Reach me on [www.noorawied.com](https://noorawied.com/)
 
 - 📝 I write articles on [medium/@noorawied](https://medium.com/@awiednoor)
 
