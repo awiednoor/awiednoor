@@ -7,7 +7,7 @@
 
 - 📫 Reach me on [www.noorawied.com](www.noorawied.com)
 
-- 📝 I write articles on [medium/@noorawied](https://medium.com/@noorawied)
+- 📝 I write articles on [medium/@noorawied](https://medium.com/@awiednoor)
 
 - ⚡ I have a strong background in **UX/UI Design**
 
@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/awiednoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awiednoor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/noorawied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noorawied" height="30" width="40" /></a>
-<a href="https://instagram.com/noor.awied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noor.awied" height="30" width="40" /></a>
-<a href="https://www.behance.net/awiednoor644fc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="awiednoor644fc" height="30" width="40" /></a>
+<a href="https://instagram.com/awiednoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noor.awied" height="30" width="40" /></a>
+<a href="https://www.behance.net/awiednoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="awiednoor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
