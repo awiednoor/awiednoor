@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **UI/UX**
 
-- ⚡ Fun fact, I believe that the only way to debug code is with a lot of coffee and some good music 🎧🎵
+- ⚡ I believe that the only way to debug code is with a lot of coffee and some good music 🎧🎵
 
 
 <h3 align="left">Languages and Tools:</h3>
