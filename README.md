@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [medium/@noorawied](https://medium.com/@awiednoor)
 
-- 💬 Ask me about **UI/UX**
+- 💬 Ask me about **Frontend, UX/UI**
 
 - ⚡ I believe that the only way to debug code is with a lot of coffee and some good music 🎧🎵
 
