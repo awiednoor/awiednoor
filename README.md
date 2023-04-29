@@ -95,7 +95,7 @@
     />
   </a>
 </p>
-<h4 align="left">UI/UX:</h4>
+<h4 align="left">UX/UI:</h4>
 
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
