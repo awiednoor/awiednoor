@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noor Awied</h1>
 <h3 align="center">An innovative and passionate creator</h3>
 
-- 👩🏻‍💻 I’m a **Frontend Engineer**
+- 👩🏻‍💻 I’m a **Fullstack Engineer**
+  
+- 🎓 **Software Engineering** graduate
 
 - 🌱 Advancing my expertise in **MERN Stack**
 
