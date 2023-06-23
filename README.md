@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [medium/@noorawied](https://medium.com/@awiednoor)
 
-- 💬 Ask me about **Frontend, UX/UI**
+- 💬 Ask me about **Web Development, Frontend, UX/UI**
 
 - ⚡ I believe that the only way to debug code is with a lot of coffee and some good music 🎧🎵
 
@@ -95,6 +95,58 @@
          width="40" 
          height="40"/> 
   </a>
+</p>
+<h4 align="left">Backend:</h4>
+<p align="left">
+
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img 
+       src="https://inapp.com/wp-content/uploads/elementor/thumbs/express-js-01-1-q05uw85vt1jqloiy5k82sfy7tgvysgt1uqld8slsbc.png" 
+        alt="express.js" 
+         width="100" 
+         height="40"/> 
+  </a>
+
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img 
+       src="https://cdn.freebiesupply.com/logos/thumbs/2x/mongodb-logo.png" 
+        alt="Mongodb" 
+         width="70" 
+         height="40"/> 
+  </a>
+
+   <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+    <img 
+       src="https://jwt.io/img/pic_logo.svg" 
+        alt="jwt" 
+         width="40" 
+         height="40"/> 
+  </a>
+
+  <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer"> 
+    <img 
+       src="https://www.passportjs.org/images/logo.svg" 
+        alt="passport.js" 
+         width="40" 
+         height="40"/> 
+  </a>
+
+  <a href="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" target="_blank" rel="noreferrer"> 
+    <img 
+       src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" 
+        alt="REST API" 
+         width="70" 
+         height="40"/> 
+  </a>
+
+  <a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" target="_blank" rel="noreferrer"> 
+    <img 
+       src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" 
+        alt="SQL" 
+         width="40" 
+         height="40"/> 
+  </a>
+
 </p>
 <h4 align="left">UX/UI:</h4>
 
