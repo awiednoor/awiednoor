@@ -139,7 +139,7 @@
          height="40"/> 
   </a>
 
-  <a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg](https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
     <img 
        src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" 
         alt="SQL" 
@@ -147,9 +147,9 @@
          height="40"/> 
   </a>
 
- <a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg](https://graphql.org/" target="_blank" rel="noreferrer"> 
+ <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
     <img 
-       src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" 
+       src="https://ww1.freelogovectors.net/wp-content/uploads/2021/01/graphql-logo-freelogovectors.net_.png" 
         alt="GraphQL" 
          width="40" 
          height="40"/> 
