@@ -131,7 +131,7 @@
          height="40"/> 
   </a>
 
-  <a href="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" target="_blank" rel="noreferrer"> 
+  <a href="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg](https://restfulapi.net/" target="_blank" rel="noreferrer"> 
     <img 
        src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" 
         alt="REST API" 
@@ -139,7 +139,7 @@
          height="40"/> 
   </a>
 
-  <a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" target="_blank" rel="noreferrer"> 
+  <a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg](https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
     <img 
        src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" 
         alt="SQL" 
@@ -147,6 +147,14 @@
          height="40"/> 
   </a>
 
+ <a href="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg](https://graphql.org/" target="_blank" rel="noreferrer"> 
+    <img 
+       src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" 
+        alt="GraphQL" 
+         width="40" 
+         height="40"/> 
+  </a>
+  
 </p>
 <h4 align="left">UX/UI:</h4>
 
