@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I’m a **Fullstack Engineer**
   
-- 🎓 **Software Engineering** graduate
+- 🎓 **Software Engineering** 
 
 - 🌱 Advancing my expertise in **MERN Stack**
 
