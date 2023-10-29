@@ -4,11 +4,11 @@
 
 <p align="center">
   <samp>
-    <a href="https://noorawied.com">me</a> .
-    <a href="https://noorawied.com">blog</a> .    
-    <a href="https://twitter.com/awiednoor">tweets</a> .
-    <a href="https://www.instagram.com/awiednoor/">instagram</a> .
-    <a href="https://www.linkedin.com/in/noorawied/">Linkedin</a>
+    <a href="https://noorawied.com" target="_blank">me</a> .
+    <a href="https://noorawied.com" target="_blank">blog</a> .    
+    <a href="https://twitter.com/awiednoor" target="_blank">tweets</a> .
+    <a href="https://www.instagram.com/awiednoor/" target="_blank">instagram</a> .
+    <a href="https://www.linkedin.com/in/noorawied/" target="_blank">Linkedin</a>
   </samp>
 </p>
 - 👩🏻‍💻 I’m a **Fullstack Engineer**
