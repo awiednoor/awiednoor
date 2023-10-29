@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Noor Awied</h1>
 <h3 align="center">An innovative and passionate creator</h3>
 
+
+<p align="center">
+  <samp>
+    <a href="https://noorawied.com">me</a> .
+    <a href="https://noorawied.com">blog</a> .    
+    <a href="https://twitter.com/awiednoor">tweets</a> .
+    <a href="https://www.instagram.com/awiednoor/">instagram</a> .
+  </samp>
+</p>
 - 👩🏻‍💻 I’m a **Fullstack Engineer**
   
 - 🎓 **Software Engineering** 
