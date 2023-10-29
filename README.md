@@ -8,6 +8,7 @@
     <a href="https://noorawied.com">blog</a> .    
     <a href="https://twitter.com/awiednoor">tweets</a> .
     <a href="https://www.instagram.com/awiednoor/">instagram</a> .
+    <a href="https://www.linkedin.com/in/noorawied/">Linkedin</a>
   </samp>
 </p>
 - 👩🏻‍💻 I’m a **Fullstack Engineer**
