@@ -11,9 +11,10 @@
     <a href="https://www.linkedin.com/in/noorawied/" target="_blank">Linkedin</a>
   </samp>
 </p>
+
 - 👩🏻‍💻 I’m a **Fullstack Engineer**
   
-- 🎓 **Software Engineering** 
+- 🎓 Graduted with a **Software Engineering** degree
 
 - 🌱 Advancing my expertise in **MERN Stack**
 
