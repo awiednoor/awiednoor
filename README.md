@@ -12,9 +12,9 @@
   </samp>
 </p>
 
-- 👩🏻‍💻 I’m a **Fullstack Engineer**
+- 👩🏻‍💻 **Fullstack Engineer**
   
-- 🌍  I'm based in Turkey
+- 🌍 based in Turkey
   
 - 🎓 Graduted with a **Software Engineering** degree
 
