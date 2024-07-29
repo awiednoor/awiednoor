@@ -18,11 +18,9 @@
   
 - 🎓 Graduted with a **Software Engineering** degree
 
-- 🌱 Advancing my expertise in **MERN Stack**
-
 - 📫 Reach me on [www.noor.codes](https://noor.codes/)
 
-- 📝 I regularly write articles on [medium/@noorawied](https://medium.com/@awiednoor)
+- 📝 Find my articles on [medium/@noorawied](https://medium.com/@awiednoor)
 
 - 💬 Ask me about **Web Development, Frontend, Hybrid MobileApps**
 
