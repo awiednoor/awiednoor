@@ -12,9 +12,9 @@
   </samp>
 </p>
 
-- 👩🏻‍💻 **Fullstack Engineer**
+- 👩🏻‍💻 **Fullstack Developer**
   
-- 🌍 based in Turkey
+- 💎 Three.js Enthusiast
   
 - 🎓 Graduted with a **Software Engineering** degree
 
