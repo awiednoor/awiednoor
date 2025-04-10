@@ -12,7 +12,7 @@
   </samp>
 </p>
 
-- 👩🏻‍💻 **Fullstack Developer**
+- 👩🏻‍💻 **Software Engineer**
   
 - 💎 Three.js Enthusiast
   
@@ -22,7 +22,7 @@
 
 - 📝 Find my articles on [medium/@noorawied](https://medium.com/@awiednoor)
 
-- 💬 Ask me about **Web Development, Frontend, Hybrid MobileApps**
+- 💬 Ask me about **Web Development, AI, Hybrid MobileApps**
 
 - ⚡ I believe that the only way to debug code is with a lot of coffee and some good music 🎧🎵
 
