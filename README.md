@@ -12,19 +12,21 @@
   </samp>
 </p>
 
-- 👩🏻‍💻 **Software Engineer**
+- 👩🏻‍💻 AI Software Engineer
   
-- 💎 Three.js Enthusiast
+- 💡 Building intelligent systems that learn, adapt, and evolve
   
-- 🎓 Graduted with a **Software Engineering** degree
-
-- 📫 Reach me on [www.noor.codes](https://noor.codes/)
-
-- 📝 Find my articles on [medium/@noorawied](https://medium.com/@awiednoor)
-
-- 💬 Ask me about **Web Development, AI, Hybrid MobileApps**
-
-- ⚡ I believe that the only way to debug code is with a lot of coffee and some good music 🎧🎵
+- 💎 User Experience Enthusiast
+  
+- 🎓 Graduated in Software Engineering
+  
+- 📫 Reach me at [www.noor.codes](https://noor.codes/)
+  
+- 📝 Read my thoughts on [medium/@noorawied](https://medium.com/@awiednoor)
+  
+- 💬 Ask me about Web Development, AI Agents, Generative AI, Hybrid Mobile Apps
+  
+- ⚡ Powered by curiosity, coffee, and great music 🎧🎵
 
 
 <h3 align="left">Languages and Tools:</h3>
