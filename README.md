@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noor Awied</h1>
-<h3 align="center">AI Engineer · Product Builder · UI/UX Crafter</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI Solutions Engineer </h3>
 
 <p align="center">
   <samp>
