@@ -4,9 +4,7 @@
 <p align="center">
   <samp>
     <a href="https://noor.codes" target="_blank">website</a> .
-    <a href="https://noorawied.com" target="_blank">blog</a> .
     <a href="https://twitter.com/awiednoor" target="_blank">tweets</a> .
-    <a href="https://www.instagram.com/awiednoor/" target="_blank">instagram</a> .
     <a href="https://www.linkedin.com/in/noorawied/" target="_blank">linkedin</a>
   </samp>
 </p>
