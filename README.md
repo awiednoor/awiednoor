@@ -22,21 +22,20 @@ I specialize in integrating **AI with great UX** to solve real-world problems �
 - **AI-Enhanced Product Development** — from idea to deployment
 - **Full-Stack Engineering** — Next.js, React Native, NestJS, FastAPI
 - **Human-Centered Design** — creating clean, accessible, and beautiful interfaces
-- **Open-Source + UI Kits** — tools and libraries for modern, multilingual apps
 
 ---
 
 💬 **Ask Me About**
-- AI Agents, Generative Interfaces, and System Automation  
+
 - Web/Mobile Development (React, React Native, Next.js)  
 - Scalable Backend Architectures (NestJS, FastAPI, MySQL, Firebase)  
-- Launching MVPs, UI Kits, or AI tools from 0 → 1    
+- Launching MVPs, UI Kits, or AI tools from 0 → 1
+- AI Agents, Generative Interfaces, and System Automation  
 
 ---
 
 ### 📫 Let's Connect  
 - Portfolio: [noor.codes](https://noor.codes)  
-- Blog: [noorawied.com](https://noorawied.com)  
 - Writing: [medium.com/@awiednoor](https://medium.com/@awiednoor)  
 - Buy me a coffee: [☕](https://www.buymeacoffee.com/noorawied)
 
