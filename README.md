@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor Awied</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Product Builder </h3>
 
-<p align="center">
-  <samp>
-    <a href="https://noor.codes" target="_blank">website</a> .
-    <a href="https://www.linkedin.com/in/noorawied/" target="_blank">linkedin</a>
-  </samp>
-</p>
 
 ---
 
