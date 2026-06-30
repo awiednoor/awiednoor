@@ -38,7 +38,7 @@ I specialize in integrating **AI with great UX** to solve real-world problems �
 ### 🛠️ Languages & Tools
 
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,redux,vite,sass,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nuxt,svelte,angular,next,tailwind,redux,vite,sass,bootstrap,materialui)](https://skillicons.dev)
 &nbsp;&nbsp;
 
 #### Backend
